@@ -1,0 +1,38 @@
+
+h1{
+    color: rgb(69, 69, 243);
+    background-color: rgb(202, 188, 188);
+    text-align: center;
+    text-transform: uppercase;
+    text
+}
+main {
+    max-width: 1041px;
+    margin: 50px auto;
+    background-color: white;
+}
+h2 {
+    color: rgb(69, 69, 243);
+    background-color: rgb(202, 188, 188);
+    text-transform: uppercase;
+    text-align-last: left;
+}
+footer {
+    text-align-last: center;
+    background-color: blue;
+    font-weight: bold;
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.negrita{
+    font-weight: bold;
+}
+header {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+body {
+    background-color: rgb(219, 215, 215);
+}
